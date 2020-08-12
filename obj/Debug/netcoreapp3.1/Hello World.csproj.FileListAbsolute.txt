@@ -1,0 +1,38 @@
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\qml\main.qml
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\NetNativeLibLoader.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\Qml.Net.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\QmlNet.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CopyComplete
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\qml\main.qml
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\NetNativeLibLoader.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\Qml.Net.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\QmlNet.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.csproj.CopyComplete
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\besmi\Development\learning-c#\QML.Net\EnvironmentVariables\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache

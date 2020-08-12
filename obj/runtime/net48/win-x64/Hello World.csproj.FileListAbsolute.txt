@@ -1,0 +1,15 @@
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\qml\main.qml
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\Hello World.exe.config
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\Hello World.exe
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\Hello World.pdb
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\NetNativeLibLoader.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\Newtonsoft.Json.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\Qml.Net.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\bin\runtime\net48\win-x64\QmlNet.dll
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.csprojAssemblyReference.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.AssemblyInfo.cs
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.csproj.CopyComplete
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.exe
+C:\Users\besmi\Development\learning-c#\QML.Net\Hello World\obj\runtime\net48\win-x64\Hello World.pdb

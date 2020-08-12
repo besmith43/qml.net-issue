@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\besmi\\Development\\learning-c#\\QML.Net\\EnvironmentVariables\\Hello World.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\besmi\\Development\\learning-c#\\QML.Net\\EnvironmentVariables\\Hello World.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\besmi\\Development\\learning-c#\\QML.Net\\EnvironmentVariables\\Hello World.csproj",
+        "projectName": "Hello World",
+        "projectPath": "C:\\Users\\besmi\\Development\\learning-c#\\QML.Net\\EnvironmentVariables\\Hello World.csproj",
+        "packagesPath": "C:\\Users\\besmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\besmi\\Development\\learning-c#\\QML.Net\\EnvironmentVariables\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\besmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48",
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          },
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "qml.net": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "qml.net.windowsbinaries": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          }
+        },
+        "net48": {
+          "dependencies": {
+            "qml.net": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            },
+            "qml.net.windowsbinaries": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
